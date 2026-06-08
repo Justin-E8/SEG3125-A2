@@ -134,7 +134,6 @@ function Hero({ onBook }) {
       <div className="container position-relative">
         <div className="row align-items-center g-5">
           <div className="col-lg-6">
-            <div className="eyebrow"><span className="eyebrow-dot" /> Appointments available this week</div>
             <h1>EasyPhysio, for all your physiotherapy needs.</h1>
             <p className="hero-lead">One-on-one appointments in central Ottawa. We’ll figure out what is getting in the way, treat it, and give you a plan you can manage at home.</p>
             <div className="d-flex flex-column flex-sm-row gap-3 hero-actions">
