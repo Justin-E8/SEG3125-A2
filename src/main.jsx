@@ -216,7 +216,7 @@ function Approach() {
             <h2>A straightforward first visit.</h2>
           </div>
           <div className="col-lg-5">
-            <p className="section-side-copy">Your appointment includes time to talk, a physical assessment, treatment where appropriate, and a clear plan for what to do next.</p>
+            <p className="section-side-copy">Your appointment will include a physical assessment, treatment where appropriate, and a clear plan for what to do next and how we can help.</p>
           </div>
         </div>
         <div className="journey-grid">
